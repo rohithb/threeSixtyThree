@@ -1,0 +1,739 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"post",
+				"posts_json	statement"
+			],
+			[
+				"du",
+				"dumps	function"
+			],
+			[
+				"e",
+				"EntryForm	class"
+			],
+			[
+				"render",
+				"render_to_response	function"
+			],
+			[
+				"fo",
+				"from"
+			],
+			[
+				"con",
+				"contrib	module"
+			],
+			[
+				"mo",
+				"models"
+			],
+			[
+				"bol",
+				"bolder"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"o",
+				"opacity"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"s",
+				"solid"
+			],
+			[
+				"fie",
+				"fieldName"
+			],
+			[
+				"bor",
+				"border-bottom"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "chat_journal/templates/registration/login.html",
+			"settings":
+			{
+				"buffer_size": 3102,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "threeSixtyThree/settings.py",
+			"settings":
+			{
+				"buffer_size": 2972,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "chat_journal/templates/chat_journal/home_page.html",
+			"settings":
+			{
+				"buffer_size": 125,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "in",
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"men",
+				"View: Toggle Menu"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"uninsa",
+				"Nodejs::NPM::Uninstall"
+			],
+			[
+				"unins",
+				"Nodejs::NPM::Uninstall"
+			],
+			[
+				"de",
+				"Xdebug: Stop Debugging (Launch Browser)"
+			],
+			[
+				"debu",
+				"Xdebug: Start Debugging (Launch Browser)"
+			],
+			[
+				"deb",
+				"Xdebug: Stop Debugging (Launch Browser)"
+			],
+			[
+				"debug",
+				"Xdebug: Stop Debugging (Close Windows)"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"ma",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"m",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"mar",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 457.0
+	},
+	"console":
+	{
+		"height": 160.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/rohith/projects/threeSixtyThree",
+		"/home/rohith/projects/threeSixtyThree/chat_journal",
+		"/home/rohith/projects/threeSixtyThree/chat_journal/templates",
+		"/home/rohith/projects/threeSixtyThree/chat_journal/templates/chat_journal",
+		"/home/rohith/projects/threeSixtyThree/chat_journal/templates/registration",
+		"/home/rohith/projects/threeSixtyThree/threeSixtyThree"
+	],
+	"file_history":
+	[
+		"/home/rohith/projects/threeSixtyThree/threeSixtyThree/urls.py",
+		"/home/rohith/projects/threeSixtyThree/chat_journal/urls.py",
+		"/home/rohith/projects/threeSixtyThree/chat_journal/templates/chat_journal/home_page.html",
+		"/home/rohith/projects/threeSixtyThree/chat_journal/tests.py",
+		"/home/rohith/projects/threeSixtyThree/threeSixtyThree/settings.py",
+		"/home/rohith/projects/threeSixtyThree/chat_journal/models.py",
+		"/home/rohith/projects/threeSixtyThree/chat_journal/forms.py",
+		"/home/rohith/projects/threeSixtyThree/chat_journal/views.py",
+		"/home/rohith/projects/threeSixtyThree/chat_journal/templates/registration/login.html",
+		"/home/rohith/projects/threeSixtyThree/chat_journal/templates/registration/logout.html",
+		"/home/rohith/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/rohith/projects/threeSixtyThree/threesixtythree.sublime-project",
+		"/home/rohith/linways/laplace/accounts/urls.py",
+		"/home/rohith/linways/laplace/placement_module/settings.py",
+		"/home/rohith/linways/laplace/placement_module/urls.py",
+		"/home/rohith/projects/chat-journal/manage.py",
+		"/home/rohith/linways/laplace/accounts/templates/accounts/index.html",
+		"/home/rohith/temp/laplace/accounts/static/js/devoops.js",
+		"/home/rohith/temp/laplace/accounts/templates/accounts/index.html",
+		"/home/rohith/temp/laplace/accounts/menu.py",
+		"/home/rohith/temp/laplace/training/views.py",
+		"/home/rohith/temp/laplace/training/templates/training/question_bank2.html",
+		"/home/rohith/temp/laplace/training/templates/training/quiz_question_list.html",
+		"/home/rohith/temp/laplace/department/templates/department/coursetype_list.html",
+		"/home/rohith/temp/laplace/training/templates/training/list_placement_paper.html",
+		"/home/rohith/linways/laplace/students/templates/students/add_student_mark.html",
+		"/home/rohith/temp/ AddStudentMark.py",
+		"/home/rohith/linways/laplace/students/templates/students_tags/student_mark_form.html",
+		"/home/rohith/linways/laplace/students/templatetags/student_mark_tags.py",
+		"/home/rohith/linways/laplace/accounts/static/css/style.css",
+		"/home/rohith/temp/add_student_mark.html",
+		"/home/rohith/linways/howToWays_2/howtoways.js",
+		"/home/rohith/paperPlane/testsail/config/models.js",
+		"/home/rohith/paperPlane/testsail/config/connections.js",
+		"/home/rohith/paperPlane/testsail/api/models/User.js",
+		"/home/rohith/paperPlane/testsail/api/controllers/UserController.js",
+		"/home/rohith/linways/laplace/accounts/static/css/login.css",
+		"/home/rohith/linways/laplace/accounts/templates/registration/login.html",
+		"/home/rohith/temp/login.css",
+		"/home/rohith/temp/loginnew1.html",
+		"/home/rohith/linways/laplace/accounts/templates/registration/logged_out.html",
+		"/home/rohith/Downloads/calm-breeze-login-screen/index_orig.html",
+		"/home/rohith/Downloads/calm-breeze-login-screen/index.html",
+		"/home/rohith/Downloads/calm-breeze-login-screen/css/style.css",
+		"/home/rohith/linways/laplace/department/templates/department/coursetype_list.html",
+		"/home/rohith/linways/laplace/department/views.py",
+		"/home/rohith/linways/laplace/requirement.txt~",
+		"/home/rohith/paperPlane/codebox-master/node_modules/express/Readme.md",
+		"/home/rohith/paperPlane/npm-debug.log",
+		"/home/rohith/temp/djangovali.py",
+		"/home/rohith/Downloads/testpsql.sql",
+		"/home/rohith/linways/laplace/customers/models.py",
+		"/home/rohith/linways/laplace/accounts/views.py",
+		"/home/rohith/linways/laplace/customers/views.py",
+		"/home/rohith/linways/laplace/clients/views.py",
+		"/home/rohith/linways/laplace/clients/models.py",
+		"/home/rohith/linways/laplace/clients/clients.py",
+		"/home/rohith/linways/laplace/clients/tests.py",
+		"/home/rohith/linways/laplace/students/templatetags/students_tags.py",
+		"/home/rohith/linways/laplace/clients/migrations/__init__.py",
+		"/home/rohith/linways/laplace/accounts/models.py",
+		"/home/rohith/Downloads/Chart.js-master/samples/line.html",
+		"/home/rohith/Downloads/gentelella-master/production/index2.html",
+		"/home/rohith/linways/laplace/accounts/templates/accounts/dashboard.html",
+		"/home/rohith/Downloads/gentelella-master/production/css/custom.css",
+		"/home/rohith/Downloads/gentelella-master/production/css/animate.min.css",
+		"/home/rohith/linways/laplace/accounts/static/css/linways_style.css",
+		"/home/rohith/linways/laplace/accounts/static/js/devoops.js",
+		"/home/rohith/linways/laplace/students/templates/students/temp_template.html",
+		"/home/rohith/linways/laplace/students/views.py",
+		"/home/rohith/linways/laplace/students/urls.py",
+		"/home/rohith/linways/laplace/accounts/templates/accounts/list_user_group.html",
+		"/home/rohith/linways/laplace/department/templates/department/batch_list.html",
+		"/home/rohith/linways/laplace/training/templates/training/training_list_aptitude_test_level.html",
+		"/home/rohith/linways/laplace/training/templates/training/training_list_aptitude_test.html",
+		"/home/rohith/linways/laplace/training/templates/training/tiq_list_sub_category.html",
+		"/home/rohith/linways/laplace/training/templates/training/tiq_list_questions.html",
+		"/home/rohith/linways/laplace/training/templates/training/tiq_list_category.html",
+		"/home/rohith/linways/laplace/training/templates/training/training_add_aptitude_test.html",
+		"/home/rohith/linways/laplace/training/templates/training/quiz_question_list.html",
+		"/home/rohith/linways/laplace/training/templates/training/quiz_list.html",
+		"/home/rohith/linways/laplace/training/templates/training/list_students.html",
+		"/home/rohith/linways/laplace/training/templates/training/question_bank.html",
+		"/home/rohith/linways/laplace/training/templates/training/edit_quiz.html",
+		"/home/rohith/linways/laplace/training/templates/training/list_aptitude_levels.html",
+		"/home/rohith/linways/laplace/training/templates/training/list_aptitude_paper.html",
+		"/home/rohith/linways/laplace/training/templates/training/list_student_performance.html",
+		"/home/rohith/linways/laplace/training/templates/training/list_placement_paper.html",
+		"/home/rohith/linways/laplace/training/templates/training/list_level_performance.html",
+		"/home/rohith/linways/laplace/students/templates/students/ajax_list_students.html",
+		"/home/rohith/linways/laplace/students/templates/students/filter_students.html",
+		"/home/rohith/linways/laplace/students/templates/students/list_students.html",
+		"/home/rohith/linways/laplace/student_dashboard/templates/student_dashboard/question_list.html",
+		"/home/rohith/linways/laplace/student_dashboard/templates/student_dashboard/list_tiq.html",
+		"/home/rohith/linways/laplace/student_dashboard/templates/student_dashboard/list_std_event.html",
+		"/home/rohith/linways/laplace/student_dashboard/templates/student_dashboard/list_questions1.html",
+		"/home/rohith/linways/laplace/student_dashboard/templates/student_dashboard/list_aptitude_levels.html",
+		"/home/rohith/linways/laplace/student_dashboard/templates/student_dashboard/list_apt_questions.html",
+		"/home/rohith/linways/laplace/student_dashboard/templates/student_dashboard/list_announcements_student.html",
+		"/home/rohith/linways/laplace/helper_functions/views.py",
+		"/home/rohith/linways/laplace/notification/templates/notification/saved_event_response.html",
+		"/home/rohith/linways/laplace/notification/templates/notification/result_level_list.html",
+		"/home/rohith/linways/laplace/notification/templates/notification/list_event_levels.html",
+		"/home/rohith/linways/laplace/notification/templates/notification/list_event_filter_students.html",
+		"/home/rohith/linways/laplace/notification/templates/notification/list_announcement.html",
+		"/home/rohith/linways/laplace/notification/templates/notification/level_list.html",
+		"/home/rohith/linways/laplace/notification/templates/notification/filter_list.html",
+		"/home/rohith/linways/laplace/accounts/templates/accounts/user_list.html",
+		"/home/rohith/linways/laplace/notification/templates/notification/event_list.html",
+		"/home/rohith/linways/laplace/notification/templates/notification/ajax_level_list.html",
+		"/home/rohith/linways/laplace/notification/templates/notification/event_attendance.html",
+		"/home/rohith/linways/laplace/department/templates/department/department_list.html",
+		"/home/rohith/linways/laplace/company_registration/templates/company_registration/company_list.html",
+		"/home/rohith/linways/laplace/company_registration/templates/company_registration/saved_job_response.html",
+		"/home/rohith/linways/laplace/company_registration/templates/company_registration/saved_internship_response.html",
+		"/home/rohith/linways/laplace/company_registration/templates/company_registration/list_internship_students.html",
+		"/home/rohith/linways/laplace/company_registration/templates/company_registration/list_job_students.html",
+		"/home/rohith/linways/laplace/company_registration/templates/company_registration/job_list.html",
+		"/home/rohith/linways/laplace/company_registration/templates/company_registration/internship_list.html",
+		"/home/rohith/linways/laplace/company_registration/templates/company_registration/create_company_form.html",
+		"/home/rohith/paperPlane/codebox-master/package.json",
+		"/home/rohith/paperPlane/codebox-master/editor/utils/menu.js",
+		"/home/rohith/paperPlane/codebox-master/test/workspace.js",
+		"/home/rohith/paperPlane/codebox-master/gulpfile.js",
+		"/home/rohith/linways/laplace/accounts/static/plugins/datatables/jquery.dataTables.min.css",
+		"/home/rohith/linways/howToWays_2/howtoways.test.js",
+		"/home/rohith/linways/howToWays/routes/howtoways_api.js",
+		"/home/rohith/linways/howToWays/app.js"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 133.0,
+		"where_history":
+		[
+			"<current file>",
+			"<current file>,<open folders>",
+			"<current file>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"/static/",
+			"../dist",
+			"template",
+			"dir",
+			",",
+			"[+d]\" ",
+			"\"",
+			"5",
+			"\"",
+			"'",
+			"padding-top",
+			".dropdown-menu > li.active > a",
+			"        evt.preventDefault();",
+			"53e3a6",
+			"([a-zA-Z]{3,30}\\s*)+",
+			"app.listen",
+			"INSERT INTO laplace.accounts_user(password,last_login,is_superuser,username,first_name,last_name,email,gender,dob,address,phone,is_staff,is_active,date_created,student_id) VALUES",
+			",1",
+			"1",
+			",1",
+			",1,1,",
+			",1,",
+			"1",
+			"1,",
+			"id,",
+			"clients",
+			"will",
+			"login",
+			"Password",
+			"[\n",
+			"top_tiles",
+			"resume",
+			".tr",
+			"tr",
+			" height: 25% ",
+			"getElementById",
+			"/static/plugins/chartjs/Chart.js",
+			"dashbo",
+			"ajax-link",
+			"datatable",
+			"center",
+			"datatable",
+			"solid",
+			"images",
+			"LoadAjaxContent",
+			"ajax-link",
+			"collections",
+			"ajax-link",
+			"logger",
+			"morgan",
+			"express",
+			"print",
+			"echo",
+			"1px solid transparent",
+			"nav",
+			"19",
+			"*",
+			"RecentLoginRequiredMixin",
+			"LoginRequiredMixin",
+			"Wiki_help.md",
+			"Wiki help.md",
+			"import",
+			"django",
+			"helper",
+			"', ",
+			"loader",
+			"linwa",
+			"^(\\+?1?\\d{6,15}\\ ,?\\ ?)+",
+			"^(\\+?1?\\d{6,15},?\\ ?)+",
+			"^(\\+?1?\\d{6,15},?\\s?)+",
+			"^(\\+?1?\\d{6,15}/s?,?/s?)+",
+			"^(\\+?1?\\d{9,15},?)+",
+			"\"",
+			"padding-left:",
+			"LoadTimePickerScript",
+			"courseFormContainer",
+			"TechInterviewQuestions",
+			"TechInterviewSubCategory"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\"",
+			"'",
+			"TechInterviewQuestions"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "chat_journal/templates/registration/login.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3102,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2361,
+								2361
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 19
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 989.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "threeSixtyThree/settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2972,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2966,
+								2966
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 23
+							}
+						},
+						"translation.x": -0.0,
+						"translation.y": 2001.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "chat_journal/templates/chat_journal/home_page.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 125,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								111,
+								111
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"vintage":
+							{
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 0
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 47.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 146.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.xdebug":
+	{
+		"height": 146.0
+	},
+	"pinned_build_system": "Packages/Nodejs/Nodejs.sublime-build",
+	"project": "threesixtythree.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"urls",
+				"chat_journal/urls.py"
+			],
+			[
+				"sett",
+				"threeSixtyThree/settings.py"
+			],
+			[
+				"model",
+				"chat_journal/models.py"
+			],
+			[
+				"settin",
+				"placement_module/settings.py"
+			],
+			[
+				"temtag",
+				"students/templatetags/student_mark_tags.py"
+			],
+			[
+				"stu/adma",
+				"students/templates/students/add_student_mark.html"
+			],
+			[
+				"lo",
+				"accounts/static/css/login.css"
+			],
+			[
+				"logincss",
+				"accounts/static/css/login.css"
+			],
+			[
+				"menu",
+				"editor/utils/menu.js"
+			],
+			[
+				"jade",
+				"howToWays/node_modules/.bin/jade"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"_vintageous_last_char_search_command": "vi_t",
+		"_vintageous_last_character_search": "t",
+		"_vintageous_reset_during_init": true,
+		"vintage":
+		{
+			"_cmdline_cd": "/home/rohith/projects/threeSixtyThree/chat_journal/templates/chat_journal"
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 229.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
