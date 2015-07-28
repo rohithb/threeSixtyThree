@@ -103,11 +103,11 @@ p:last-child {
 --------------------*/
 
 a {
-  color: #4183c4;
+  color: #028090;
   text-decoration: none;
 }
 a:hover {
-  color: #1e70bf;
+  color: #00A896;
   text-decoration: none;
 }
 
@@ -158,4 +158,3 @@ input::selection {
 /*******************************
          Site Overrides
 *******************************/
-

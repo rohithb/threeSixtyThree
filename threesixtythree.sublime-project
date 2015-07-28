@@ -5,13 +5,13 @@
 			"path": "."
 		}
 	],
-    "settings": {
-        // ...
-        "python_interpreter": "/home/rohith/projects/3env/bin/python",
-
-        "python_package_paths": [
-            "$home/.buildout/eggs",
-            "$project_path/addons",
-            ]
-    }
+	"settings":
+	{
+		"python_interpreter": "/home/rohith/projects/3env/bin/python",
+		"python_package_paths":
+		[
+			"$home/.buildout/eggs",
+			"$project_path/addons"
+		]
+	}
 }

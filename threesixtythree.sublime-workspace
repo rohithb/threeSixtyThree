@@ -4,6 +4,30 @@
 		"selected_items":
 		[
 			[
+				"ba",
+				"background-color"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"pu",
+				"pumb_list	statement"
+			],
+			[
 				"ac",
 				"action	Attr"
 			],
@@ -40,10 +64,6 @@
 				"bolder"
 			],
 			[
-				"bac",
-				"background-color"
-			],
-			[
 				"padd",
 				"padding-top"
 			],
@@ -62,20 +82,32 @@
 			[
 				"fie",
 				"fieldName"
-			],
-			[
-				"bor",
-				"border-bottom"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "chat_journal/templates/registration/login.html",
+			"file": "chat_journal/templates/chat_journal/home_page.html",
 			"settings":
 			{
-				"buffer_size": 3102,
+				"buffer_size": 1458,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "chat_journal/static/css/style.css",
+			"settings":
+			{
+				"buffer_size": 513,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "chat_journal/templates/base.html",
+			"settings":
+			{
+				"buffer_size": 4242,
 				"line_ending": "Unix"
 			}
 		},
@@ -88,10 +120,18 @@
 			}
 		},
 		{
-			"file": "chat_journal/templates/chat_journal/home_page.html",
+			"file": "chat_journal/views.py",
 			"settings":
 			{
-				"buffer_size": 125,
+				"buffer_size": 2018,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "chat_journal/models.py",
+			"settings":
+			{
+				"buffer_size": 460,
 				"line_ending": "Unix"
 			}
 		}
@@ -104,9 +144,13 @@
 	"command_palette":
 	{
 		"height": 400.0,
-		"last_filter": "in",
+		"last_filter": "ins",
 		"selected_items":
 		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
 			[
 				"in",
 				"Package Control: Install Package"
@@ -118,10 +162,6 @@
 			[
 				"remo",
 				"Package Control: Remove Package"
-			],
-			[
-				"ins",
-				"Package Control: Install Package"
 			],
 			[
 				"side",
@@ -188,7 +228,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 457.0
+		"width": 475.0
 	},
 	"console":
 	{
@@ -211,22 +251,38 @@
 	[
 		"/home/rohith/projects/threeSixtyThree",
 		"/home/rohith/projects/threeSixtyThree/chat_journal",
+		"/home/rohith/projects/threeSixtyThree/chat_journal/static",
+		"/home/rohith/projects/threeSixtyThree/chat_journal/static/css",
+		"/home/rohith/projects/threeSixtyThree/chat_journal/static/semantic",
+		"/home/rohith/projects/threeSixtyThree/chat_journal/static/semantic/components",
 		"/home/rohith/projects/threeSixtyThree/chat_journal/templates",
-		"/home/rohith/projects/threeSixtyThree/chat_journal/templates/chat_journal",
-		"/home/rohith/projects/threeSixtyThree/chat_journal/templates/registration",
 		"/home/rohith/projects/threeSixtyThree/threeSixtyThree"
 	],
 	"file_history":
 	[
-		"/home/rohith/projects/threeSixtyThree/threeSixtyThree/urls.py",
-		"/home/rohith/projects/threeSixtyThree/chat_journal/urls.py",
-		"/home/rohith/projects/threeSixtyThree/chat_journal/templates/chat_journal/home_page.html",
-		"/home/rohith/projects/threeSixtyThree/chat_journal/tests.py",
-		"/home/rohith/projects/threeSixtyThree/threeSixtyThree/settings.py",
+		"/home/rohith/projects/threeSixtyThree/chat_journal/static/semantic/semantic.css",
+		"/home/rohith/projects/threeSixtyThree/chat_journal/static/semantic/components/site.css",
+		"/home/rohith/projects/threeSixtyThree/chat_journal/static/angular/app.js",
 		"/home/rohith/projects/threeSixtyThree/chat_journal/models.py",
 		"/home/rohith/projects/threeSixtyThree/chat_journal/forms.py",
-		"/home/rohith/projects/threeSixtyThree/chat_journal/views.py",
+		"/home/rohith/projects/threeSixtyThree/chat_journal/templates/base.html",
+		"/home/rohith/projects/threeSixtyThree/threeSixtyThree/settings.py",
+		"/home/rohith/temp/h2.c",
 		"/home/rohith/projects/threeSixtyThree/chat_journal/templates/registration/login.html",
+		"/home/rohith/projects/threeSixtyThree/chat_journal/static/css/style.css",
+		"/home/rohith/projects/threeSixtyThree/chat_journal/templates/chat_journal/home_page.html",
+		"/home/rohith/Downloads/Semantic-UI-master/examples/fixed.html",
+		"/home/rohith/temp/django-excel/polls/views.py",
+		"/home/rohith/temp/h1.py",
+		"/home/rohith/temp/django-excel/polls/models.py",
+		"/home/rohith/temp/h2.py",
+		"/home/rohith/temp/t1.c",
+		"/home/rohith/temp/django-excel/polls/urls.py",
+		"/home/rohith/projects/threeSixtyThree/threeSixtyThree/urls.py",
+		"/home/rohith/projects/threeSixtyThree/chat_journal/views.py",
+		"/home/rohith/projects/threeSixtyThree/chat_journal/urls.py",
+		"/home/rohith/projects/threeSixtyThree/chat_journal/templates/registration/logged_out.html",
+		"/home/rohith/projects/threeSixtyThree/chat_journal/tests.py",
 		"/home/rohith/projects/threeSixtyThree/chat_journal/templates/registration/logout.html",
 		"/home/rohith/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
 		"/home/rohith/projects/threeSixtyThree/threesixtythree.sublime-project",
@@ -331,25 +387,11 @@
 		"/home/rohith/linways/laplace/notification/templates/notification/event_attendance.html",
 		"/home/rohith/linways/laplace/department/templates/department/department_list.html",
 		"/home/rohith/linways/laplace/company_registration/templates/company_registration/company_list.html",
-		"/home/rohith/linways/laplace/company_registration/templates/company_registration/saved_job_response.html",
-		"/home/rohith/linways/laplace/company_registration/templates/company_registration/saved_internship_response.html",
-		"/home/rohith/linways/laplace/company_registration/templates/company_registration/list_internship_students.html",
-		"/home/rohith/linways/laplace/company_registration/templates/company_registration/list_job_students.html",
-		"/home/rohith/linways/laplace/company_registration/templates/company_registration/job_list.html",
-		"/home/rohith/linways/laplace/company_registration/templates/company_registration/internship_list.html",
-		"/home/rohith/linways/laplace/company_registration/templates/company_registration/create_company_form.html",
-		"/home/rohith/paperPlane/codebox-master/package.json",
-		"/home/rohith/paperPlane/codebox-master/editor/utils/menu.js",
-		"/home/rohith/paperPlane/codebox-master/test/workspace.js",
-		"/home/rohith/paperPlane/codebox-master/gulpfile.js",
-		"/home/rohith/linways/laplace/accounts/static/plugins/datatables/jquery.dataTables.min.css",
-		"/home/rohith/linways/howToWays_2/howtoways.test.js",
-		"/home/rohith/linways/howToWays/routes/howtoways_api.js",
-		"/home/rohith/linways/howToWays/app.js"
+		"/home/rohith/linways/laplace/company_registration/templates/company_registration/saved_job_response.html"
 	],
 	"find":
 	{
-		"height": 31.0
+		"height": 47.0
 	},
 	"find_in_files":
 	{
@@ -366,6 +408,12 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"link",
+			"    <",
+			"important",
+			" {",
+			"images/avatar/small",
+			"\">\n",
 			"/static/",
 			"../dist",
 			"template",
@@ -464,29 +512,77 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "chat_journal/templates/registration/login.html",
+					"file": "chat_journal/templates/chat_journal/home_page.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3102,
+						"buffer_size": 1458,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2361,
-								2361
+								986,
+								986
 							]
 						],
 						"settings":
 						{
+							"highlight_line": false,
 							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"_vintageous_non_interactive": false,
+								"_vintageous_processing_notation": false,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 42
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 414.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "chat_journal/static/css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 513,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								442,
+								442
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
 							"vintage":
 							{
 								"_vintageous_glue_until_normal_mode": false,
@@ -500,18 +596,66 @@
 								"partial_sequence": "",
 								"register": "\"",
 								"sequence": "",
-								"xpos": 19
+								"xpos": 28
 							}
 						},
 						"translation.x": 0.0,
-						"translation.y": 989.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
-					"buffer": 1,
+					"buffer": 2,
+					"file": "chat_journal/templates/base.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4242,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3958,
+								3958
+							]
+						],
+						"settings":
+						{
+							"highlight_line": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"_vintageous_non_interactive": false,
+								"_vintageous_processing_notation": false,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 43
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 1242.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
 					"file": "threeSixtyThree/settings.py",
 					"semi_transient": false,
 					"settings":
@@ -523,8 +667,8 @@
 						"selection":
 						[
 							[
-								2966,
-								2966
+								2302,
+								2302
 							]
 						],
 						"settings":
@@ -545,55 +689,102 @@
 								"partial_sequence": "",
 								"register": "\"",
 								"sequence": "",
-								"xpos": 23
+								"xpos": 39
 							}
 						},
-						"translation.x": -0.0,
-						"translation.y": 2001.0,
+						"translation.x": 0.0,
+						"translation.y": 1225.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "chat_journal/templates/chat_journal/home_page.html",
+					"buffer": 4,
+					"file": "chat_journal/views.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 125,
+						"buffer_size": 2018,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								111,
-								111
+								1471,
+								1471
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
 							"vintage":
 							{
+								"_vintageous_glue_until_normal_mode": false,
 								"action": null,
 								"action_count": "",
 								"mode": "mode_normal",
 								"motion": null,
 								"motion_count": "",
 								"must_capture_register_name": false,
+								"normal_insert_count": "1",
 								"partial_sequence": "",
 								"register": "\"",
 								"sequence": "",
-								"xpos": 0
+								"xpos": 27
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 425.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "chat_journal/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 460,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								458,
+								458
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 102
 							}
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 4,
 					"type": "text"
 				}
 			]
@@ -656,6 +847,10 @@
 		"selected_items":
 		[
 			[
+				"home",
+				"chat_journal/templates/chat_journal/home_page.html"
+			],
+			[
 				"urls",
 				"chat_journal/urls.py"
 			],
@@ -700,12 +895,12 @@
 	},
 	"select_project":
 	{
-		"height": 0.0,
+		"height": 500.0,
 		"last_filter": "",
 		"selected_items":
 		[
 		],
-		"width": 0.0
+		"width": 380.0
 	},
 	"select_symbol":
 	{
@@ -719,12 +914,12 @@
 	"selected_group": 0,
 	"settings":
 	{
-		"_vintageous_last_char_search_command": "vi_t",
-		"_vintageous_last_character_search": "t",
+		"_vintageous_last_char_search_command": "vi_f",
+		"_vintageous_last_character_search": "a",
 		"_vintageous_reset_during_init": true,
 		"vintage":
 		{
-			"_cmdline_cd": "/home/rohith/projects/threeSixtyThree/chat_journal/templates/chat_journal"
+			"_cmdline_cd": "/home/rohith/projects/threeSixtyThree/chat_journal/templates"
 		}
 	},
 	"show_minimap": true,
