@@ -17,7 +17,7 @@ class PostSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = Post
-        fields = ('body', 'user', 'timestamp')
+        fields = ('id', 'body', 'user', 'timestamp')
 
     def validate_body(self, value):
         if len(value) < 1:
