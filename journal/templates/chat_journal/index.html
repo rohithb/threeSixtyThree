@@ -1,0 +1,92 @@
+{% load staticfiles %}
+<!DOCTYPE html>
+<html lang="en" ng-app="journalApp">
+  <head>
+    <!-- Standard Meta -->
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    <!-- Site Properities -->
+    <title>Three Sixty Three</title>
+    <link rel="shortcut icon" href="/static/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="/static/lib/semantic/components/reset.css"/>
+    <link rel="stylesheet" type="text/css" href="/static/lib/semantic/components/site.css"/>
+    <link rel="stylesheet" type="text/css" href="/static/lib/semantic/components/container.css"/>
+    <link rel="stylesheet" type="text/css" href="/static/lib/semantic/components/grid.css"/>
+    <link rel="stylesheet" type="text/css" href="/static/lib/semantic/components/header.css"/>
+    <link rel="stylesheet" type="text/css" href="/static/lib/semantic/components/image.css"/>
+    <link rel="stylesheet" type="text/css" href="/static/lib/semantic/components/menu.css"/>
+    <link rel="stylesheet" type="text/css" href="/static/lib/semantic/components/divider.css"/>
+    <link rel="stylesheet" type="text/css" href="/static/lib/semantic/components/segment.css"/>
+    <link rel="stylesheet" type="text/css" href="/static/lib/semantic/components/form.css"/>
+    <link rel="stylesheet" type="text/css" href="/static/lib/semantic/components/input.css"/>
+    <link rel="stylesheet" type="text/css" href="/static/lib/semantic/components/button.css"/>
+    <link rel="stylesheet" type="text/css" href="/static/lib/semantic/components/list.css"/>
+    <link rel="stylesheet" type="text/css" href="/static/lib/semantic/components/message.css"/>
+    <link rel="stylesheet" type="text/css" href="/static/lib/semantic/components/icon.css"/>
+    <link rel="stylesheet" type="text/css" href="/static/lib/semantic/components/feed.css"/>
+    <link rel="stylesheet" type="text/css" href="/static/lib/semantic/components/dropdown.css"/>
+    <link rel="stylesheet" type="text/css" href="/static/css/style.css">
+
+    <style type="text/css">
+    body {
+    background-color: #FFFFFF;
+    }
+    .ui.menu .item img.logo {
+    margin-right: 1.5em;
+    }
+    .main.container {
+    margin-top: 7em;
+    }
+    .ui.footer.segment {
+    margin: 5em 0em 0em;
+    padding: 5em 0em;
+    }
+    </style>
+  </head>
+  <body>
+  <!-- Header -->
+    <div class="ui fixed menu">
+      <div class="ui container">
+        <div href="#" class="header item">
+          <img class="logo" src="/static/images/logo.png">
+          Three Sixty Three
+        </div>
+        <div class="right menu">
+          <div class="item" id="header_search">
+            <div class="ui icon input">
+              <input type="text" placeholder="Search...">
+              <i class="search link icon"></i>
+            </div>
+          </div>
+          <a class="ui item" href="/accounts/logout/">
+            Logout
+          </a>
+        </div>
+      </div>
+    </div>
+    <!--header end -->
+    <div class="main_container pushable">
+     <div ng-view></div>
+    </div>
+    <script type="text/javascript" src="/static/lib/jquery.min.js"></script>
+    <script type="text/javascript" src="/static/lib/angular/angular.min.js"></script>
+    <script type="text/javascript" src="/static/lib/angular/angular-resource.min.js"></script>
+    <script type="text/javascript" src="/static/lib/angular/angular-route.min.js"></script>
+    <script type="text/javascript" src="/static/js/app.js"></script>
+    <script type="text/javascript" src="/static/js/services.js"></script>
+    <script type="text/javascript" src="/static/js/controllers.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.3/moment.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-moment/0.10.1/angular-moment.min.js"></script>
+    <script type="text/javascript">
+      // This allows you to access the current user id in your angular controllers.
+      angular
+      .module('journalApp.services')
+      .factory('AuthUser', function() {
+        return {
+          id: "{{ user.id|default:''}}",
+        }
+      });
+    </script>
+  </body>
+</html>

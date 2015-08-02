@@ -1,0 +1,37 @@
+<div class="ui main text container" ng-controller="PostController">
+  <div class="ui feed">
+    <div class="event" ng-repeat="post in posts">
+      <div class="label">
+        <img src="/static/images/elliot.jpg">
+      </div>
+      <div class="content">
+        <div class="summary">
+          <a>[[ post.user.first_name ]] [[ post.user.last_name ]]</a> :
+          <div class="date">
+            <span am-time-ago="post.date"></span>
+          </div>
+        </div>
+        <div class="extra text">
+         [[ post.body ]]
+        </div>
+        <div class="meta">
+          <a class="like">
+            <i class="like icon"></i> 5 Likes
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="post-form">
+    <form method='post' novalidate>
+      <div class="field">
+        <textarea  id="id_body" name="body" rows="5" ng-model="newPost"></textarea>
+      </div>
+      <span class="help-block"></span>
+      <button class="ui green color1 labeled submit icon button" ng-click="summitPost(newPost)">
+        <i class="icon send"></i> Save
+      </button>
+    </form>
+  </div>
+</div>

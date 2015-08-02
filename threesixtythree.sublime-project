@@ -3,6 +3,9 @@
 	[
 		{
 			"path": "."
+		},
+		{
+			"path": "/home/rohith/Downloads/tweeter-master"
 		}
 	],
 	"settings":
