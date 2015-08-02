@@ -15,7 +15,7 @@ def index(request):
     user = authenticate(username='rohith', password='microsoft')
     if user is not None:
         login(request, user)
-        return render(request, 'chat_journal/index.html')
+        return render(request, 'journal/index.html')
 
 
 class PostViewSet(viewsets.ModelViewSet):
