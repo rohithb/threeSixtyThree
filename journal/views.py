@@ -12,7 +12,7 @@ from journal.serializers import PostSerializer, UserSerializer
 @csrf_protect
 @ensure_csrf_cookie
 def index(request):
-    user = authenticate(username='rohith', password='microsoft')
+    user = authenticate(username='rohith', password='admin')
     if user is not None:
         login(request, user)
         return render(request, 'journal/index.html')
