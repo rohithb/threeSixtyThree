@@ -6,7 +6,7 @@ var app = angular.module('journalApp', [
     'journalApp.services',
     'journalApp.controllers',
     ])
-    .config(function($interpolateProvider, $httpProvider, $resourceProvider, $routeProvider) {
+    .config(function($interpolateProvider, $httpProvider, $resourceProvider, $routeProvider, $locationProvider) {
         // Force angular to use square brackets for template tag
         $interpolateProvider.startSymbol('[[').endSymbol(']]');
 
@@ -22,11 +22,11 @@ var app = angular.module('journalApp', [
 
         $routeProvider
             .when('/posts', {
-                templateUrl: 'static/journal/partials/post-list.html',
+                templateUrl: 'static/partials/post-list.html',
                 controller: 'PostController',
             })
             .when('/profile/:userId', {
-                templateUrl: 'static/journal/partials/profile.html',
+                templateUrl: 'static/partials/profile.html',
                 controller: 'UserController',
             })
             .otherwise({
