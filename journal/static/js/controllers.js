@@ -15,11 +15,9 @@
      }
  })
 
- journalControllers.controller('UserController', function UserCtrl($scope, Post, User, AuthUser){
-    $scope.posts = {};
+ journalControllers.controller('UserController', function UserCtrl($scope, User, AuthUser){
     id = AuthUser.id;
     User.get({id:id}, function(response){
         $scope.user = response;
-        $scope.posts = response.posts;
     });
  });

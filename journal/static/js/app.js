@@ -25,7 +25,7 @@ var app = angular.module('journalApp', [
                 templateUrl: 'static/partials/post-list.html',
                 controller: 'PostController',
             })
-            .when('/profile/:userId', {
+            .when('/profile', {
                 templateUrl: 'static/partials/profile.html',
                 controller: 'UserController',
             })
