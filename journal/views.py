@@ -20,7 +20,6 @@ class LoggedInMixin(object):
     def dispatch(self, *args, **kwargs):
         return super(LoggedInMixin, self).dispatch(*args, **kwargs)
 
-
 class Index(LoggedInMixin, TemplateView):
     template_name = 'journal/index.html'
 

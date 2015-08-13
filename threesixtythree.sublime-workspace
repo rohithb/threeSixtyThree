@@ -128,18 +128,10 @@
 	"buffers":
 	[
 		{
-			"file": "/home/rohith/linways/laplace/data_importer/templates/data_importer/match_field_names.html",
+			"file": "journal/views.py",
 			"settings":
 			{
-				"buffer_size": 2549,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/rohith/linways/laplace/accounts/static/css/style.css",
-			"settings":
-			{
-				"buffer_size": 75188,
+				"buffer_size": 1538,
 				"line_ending": "Unix"
 			}
 		}
@@ -269,9 +261,13 @@
 	},
 	"expanded_folders":
 	[
+		"/home/rohith/projects/threeSixtyThree",
+		"/home/rohith/projects/threeSixtyThree/journal"
 	],
 	"file_history":
 	[
+		"/home/rohith/linways/laplace/accounts/static/css/style.css",
+		"/home/rohith/linways/laplace/data_importer/templates/data_importer/match_field_names.html",
 		"/home/rohith/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
 		"/home/rohith/linways/laplace/accounts/static/js/devoops.js",
 		"/home/rohith/projects/threeSixtyThree/journal/static/js/app.js",
@@ -362,7 +358,6 @@
 		"/home/rohith/temp/ AddStudentMark.py",
 		"/home/rohith/linways/laplace/students/templates/students_tags/student_mark_form.html",
 		"/home/rohith/linways/laplace/students/templatetags/student_mark_tags.py",
-		"/home/rohith/linways/laplace/accounts/static/css/style.css",
 		"/home/rohith/temp/add_student_mark.html",
 		"/home/rohith/linways/howToWays_2/howtoways.js",
 		"/home/rohith/paperPlane/testsail/config/models.js",
@@ -398,8 +393,7 @@
 		"/home/rohith/Downloads/gentelella-master/production/index2.html",
 		"/home/rohith/linways/laplace/accounts/templates/accounts/dashboard.html",
 		"/home/rohith/Downloads/gentelella-master/production/css/custom.css",
-		"/home/rohith/Downloads/gentelella-master/production/css/animate.min.css",
-		"/home/rohith/linways/laplace/accounts/static/css/linways_style.css"
+		"/home/rohith/Downloads/gentelella-master/production/css/animate.min.css"
 	],
 	"find":
 	{
@@ -556,62 +550,32 @@
 			[
 				{
 					"buffer": 0,
-					"file": "/home/rohith/linways/laplace/data_importer/templates/data_importer/match_field_names.html",
+					"file": "journal/views.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2549,
+						"buffer_size": 1538,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1979,
-								1979
+								850,
+								850
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"syntax": "Packages/Python/Python.tmLanguage",
 							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 828.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/home/rohith/linways/laplace/accounts/static/css/style.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 75188,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								309,
-								309
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
