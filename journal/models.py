@@ -15,3 +15,13 @@ class Post(models.Model):
 
     def __str__(self):
         return self.body
+
+
+class Profile(models.Model):
+    user = models.OneToOneField(User)
+    display_picture = models.CharField(max_length=1000, null=True, blank=True)
+
+
+class Group(models.Model):
+    title = models.CharField(max_length=500)
+    users = models.ManyToManyField(User)

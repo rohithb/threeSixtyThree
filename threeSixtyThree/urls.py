@@ -17,7 +17,9 @@ from django.conf.urls import include, url
 
 urlpatterns = [
     url(r'^accounts/login/$', 'django.contrib.auth.views.login', name="login"),
-    url(r'^accounts/logout/$', 'django.contrib.auth.views.logout', 
-      {'next_page': '/accounts/login/'}),
+    url(r'^accounts/logout/$', 'django.contrib.auth.views.logout',
+        {'next_page': '/accounts/login/'}),
+    url(r'^accounts/password-change/$', 'django.contrib.auth.views.password_change',
+        {'post_change_redirect': '/'}),
     url(r'', include('journal.urls', namespace='home')),
 ]

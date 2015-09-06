@@ -128,10 +128,10 @@
 	"buffers":
 	[
 		{
-			"file": "journal/views.py",
+			"file": "/home/rohith/linways/laplace/accounts/static/js/devoops.js",
 			"settings":
 			{
-				"buffer_size": 1538,
+				"buffer_size": 72646,
 				"line_ending": "Unix"
 			}
 		}
@@ -266,6 +266,7 @@
 	],
 	"file_history":
 	[
+		"/home/rohith/projects/threeSixtyThree/journal/views.py",
 		"/home/rohith/linways/laplace/accounts/static/css/style.css",
 		"/home/rohith/linways/laplace/data_importer/templates/data_importer/match_field_names.html",
 		"/home/rohith/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
@@ -277,7 +278,6 @@
 		"/home/rohith/projects/threeSixtyThree/journal/static/css/style.css",
 		"/home/rohith/projects/threeSixtyThree/journal/static/js/controllers.js",
 		"/home/rohith/projects/threeSixtyThree/journal/serializers.py",
-		"/home/rohith/projects/threeSixtyThree/journal/views.py",
 		"/home/rohith/projects/threeSixtyThree/journal/static/partials/profile.html",
 		"/home/rohith/projects/threeSixtyThree/journal/templates/journal/index.html",
 		"/home/rohith/temp/t1.cpp",
@@ -414,6 +414,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"LoadAjaxContent",
+			"ajax-lin",
 			"import=",
 			"import",
 			"ajax-lin",
@@ -550,29 +552,28 @@
 			[
 				{
 					"buffer": 0,
-					"file": "journal/views.py",
+					"file": "/home/rohith/linways/laplace/accounts/static/js/devoops.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1538,
+						"buffer_size": 72646,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								850,
-								850
+								5781,
+								5781
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Python/Python.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 5302.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
